@@ -1,0 +1,16 @@
+{
+  "name": "telkit",
+  "owner": {
+    "name": "Telkit"
+  },
+  "plugins": [
+    {
+      "name": "telkit",
+      "source": "./plugins/telkit",
+      "description": "Telkit remote MCP server: Korean 070 numbers, balance and call records for your agent."
+    }
+  ],
+  "metadata": {
+    "description": "Telkit remote MCP server for Claude Code."
+  }
+}
