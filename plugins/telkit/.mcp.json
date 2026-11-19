@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "telkit": {
+      "type": "http",
+      "url": "https://api.telkit.io/mcp"
+    }
+  }
+}
